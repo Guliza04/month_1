@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div {
+    height: 100vh;
+    background: url(../images/image-1.png) no-repeat right;
+    background-color: #002547;
+    position: relative;
+}
+
+
+.comp {
+    position: absolute;
+    left: 32px;
+    bottom: 32px;
+}

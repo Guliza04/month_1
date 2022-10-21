@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3cbefb3-0cb0-4833-9693-a87e3f66d666" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29yVeOYG2yrDyuuX4mQDf7OMmv1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DZ2_Guliza_20-02" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\lesson2\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3cbefb3-0cb0-4833-9693-a87e3f66d666" name="Default Changelist" comment="" />
+      <created>1654085406821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654085406821</updated>
+      <workItem from="1654085410467" duration="739000" />
+      <workItem from="1654086203993" duration="5260000" />
+      <workItem from="1654169463748" duration="148000" />
+      <workItem from="1654169945326" duration="287000" />
+      <workItem from="1654171555322" duration="5887000" />
+      <workItem from="1654234713626" duration="340000" />
+      <workItem from="1654335865755" duration="1414000" />
+      <workItem from="1654343782960" duration="397000" />
+      <workItem from="1654344321028" duration="6000" />
+      <workItem from="1654344345559" duration="29000" />
+      <workItem from="1654344412483" duration="808000" />
+      <workItem from="1654345282581" duration="94000" />
+      <workItem from="1654345427247" duration="47000" />
+      <workItem from="1655209437282" duration="805000" />
+      <workItem from="1655286426305" duration="19000" />
+      <workItem from="1655286446343" duration="46000" />
+      <workItem from="1655286619386" duration="691000" />
+      <workItem from="1655287315090" duration="2169000" />
+      <workItem from="1655294004243" duration="20000" />
+      <workItem from="1655294071069" duration="19000" />
+      <workItem from="1655365721595" duration="233000" />
+      <workItem from="1664710492006" duration="113000" />
+      <workItem from="1664792519879" duration="39000" />
+      <workItem from="1664794456296" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1664794491002">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1664794491002" />
+  </component>
+</project>

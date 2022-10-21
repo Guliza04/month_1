@@ -1,0 +1,22 @@
+
+.menu__inner{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+}
+.menu__nav-items{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.menu__sing-up{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+}
+
+.menu{
+    background: silver;
+
+}

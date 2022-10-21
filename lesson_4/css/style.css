@@ -1,0 +1,53 @@
+p strong {
+    color: blue;
+}
+
+.image {
+    height: 100vh;
+    background-image: url("../img/photo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: gainsboro;
+    background-size:  auto 500px;
+    background-size: cover;
+    background-size: contain; /*на весь экран  фоновая картинка */
+}
+.block{
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*flex-wrap: nowrap;*/
+    /*justify-content: flex-end;*/
+    align-items: center;
+    justify-content: space-around;
+    /*justify-content: space-between;*/
+    height: 200px;
+
+}
+.block .item {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 0;
+    width: 400px;
+    padding: 100px;
+    background-color: darkseagreen;
+    color: #000000;
+    font-size: 20px;
+    display: flex;
+
+}
+
+.block.item.one{
+   order: 3;
+}
+.block.item.two {
+   order: 1;
+}
+.block.item.three{
+   order:5 ;
+}
+.block.item.four{
+   order: 2;
+}
+.block.item.five {
+   order: 5;
+}

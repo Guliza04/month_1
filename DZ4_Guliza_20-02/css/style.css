@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1145px;
+    margin: 0 auto;
+}
+
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #9ACFFF;
+    border-radius: 10px;
+    height: 106.26px;
+    margin-top: 140px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    width: 1085px;
+    
+}
+.block2{
+    margin-top: 135px;
+    background: #9ACFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.blockMini2{
+    font-size: 39px;
+    line-height: 52px;
+    text-transform: capitalize;
+    color: #000;
+    font-family: 'Poppins' sans-serif;
+}
+

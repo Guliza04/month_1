@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.container > span {
+  width: 1148px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  background: #ffffff;
+  height: 3000px;
+}
+
+/*# sourceMappingURL=core.css.map */

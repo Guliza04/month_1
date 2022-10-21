@@ -1,0 +1,22 @@
+#one{
+    color: yellow;
+}
+.first{
+    color: darkorange;
+}
+div {
+    color: #ee8a8a !important;
+}
+div {
+    color: rgba(92,183,88,0.9);
+    background-color: rgba(80, 144, 241, 0.8);
+    width: 100px;
+
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: #ee8a8a;
+    line-height: 28px;
+   text-indent: 20px;
+}
